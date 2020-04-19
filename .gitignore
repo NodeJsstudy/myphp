@@ -1,7 +1,5 @@
-/nbproject
 /.idea
 /vendor
 composer.lock
 #Ignore Compile file.
 *.compile.php
-Web/staging/runtime.php
